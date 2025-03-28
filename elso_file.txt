@@ -1,2 +1,4 @@
 "Szeva a geprol!"
 "Szeva itthonrol a geprol!"
+"Szeva online github kalirol!"
+"Szeva kali firefoxrol!"
