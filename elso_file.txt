@@ -1,4 +1,8 @@
-"Szeva a geprol!"
+"Szeva a westendbol!"
 "Szeva itthonrol a geprol!"
 "Szeva online github kalirol!"
 "Szeva kali firefoxrol!"
+
+"Szeva git gui es megint vim!"
+"Ez a rohadt eso mar megint esik!"
+"Pont akkor amikor el kellene itthonrol mennem!"
